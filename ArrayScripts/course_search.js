@@ -37,7 +37,7 @@ let courses = [
     Fee: "50.00",
     }
    ];
-   2-23
+   
    // When does the PROG200 course start?
    // What is the title of the PROJ500 course?
    // What are the titles of the courses that cost $50 or less?
